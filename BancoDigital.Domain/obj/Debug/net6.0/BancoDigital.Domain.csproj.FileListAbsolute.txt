@@ -1,0 +1,14 @@
+C:\Projetos\Banco Digital\BancoDigital\BancoDigital.Domain\bin\Debug\net6.0\BancoDigital.Domain.deps.json
+C:\Projetos\Banco Digital\BancoDigital\BancoDigital.Domain\bin\Debug\net6.0\BancoDigital.Domain.runtimeconfig.json
+C:\Projetos\Banco Digital\BancoDigital\BancoDigital.Domain\bin\Debug\net6.0\BancoDigital.Domain.dll
+C:\Projetos\Banco Digital\BancoDigital\BancoDigital.Domain\bin\Debug\net6.0\BancoDigital.Domain.pdb
+C:\Projetos\Banco Digital\BancoDigital\BancoDigital.Domain\obj\Debug\net6.0\BancoDigital.Domain.csproj.AssemblyReference.cache
+C:\Projetos\Banco Digital\BancoDigital\BancoDigital.Domain\obj\Debug\net6.0\BancoDigital.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Banco Digital\BancoDigital\BancoDigital.Domain\obj\Debug\net6.0\BancoDigital.Domain.AssemblyInfoInputs.cache
+C:\Projetos\Banco Digital\BancoDigital\BancoDigital.Domain\obj\Debug\net6.0\BancoDigital.Domain.AssemblyInfo.cs
+C:\Projetos\Banco Digital\BancoDigital\BancoDigital.Domain\obj\Debug\net6.0\BancoDigital.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\Banco Digital\BancoDigital\BancoDigital.Domain\obj\Debug\net6.0\BancoDigital.Domain.dll
+C:\Projetos\Banco Digital\BancoDigital\BancoDigital.Domain\obj\Debug\net6.0\refint\BancoDigital.Domain.dll
+C:\Projetos\Banco Digital\BancoDigital\BancoDigital.Domain\obj\Debug\net6.0\BancoDigital.Domain.pdb
+C:\Projetos\Banco Digital\BancoDigital\BancoDigital.Domain\obj\Debug\net6.0\BancoDigital.Domain.genruntimeconfig.cache
+C:\Projetos\Banco Digital\BancoDigital\BancoDigital.Domain\obj\Debug\net6.0\ref\BancoDigital.Domain.dll

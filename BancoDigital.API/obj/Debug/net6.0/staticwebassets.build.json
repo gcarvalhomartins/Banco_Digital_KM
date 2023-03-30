@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hwHTU2ncd7FPEE7lHYonq0IReH6ZiqJbK8MKk4yBhgg=",
+  "Source": "BancoDigital.API",
+  "BasePath": "_content/BancoDigital.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
